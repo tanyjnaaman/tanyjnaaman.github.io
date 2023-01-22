@@ -1,4 +1,317 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Naaman Tan | Software Engineer]]></title><description><![CDATA[Computer Science undergraduate with experience in full-stack development and NLP, CV and Geometric DL. If you need an engineer who can quickly prototype concepts and scale them up, I could be the person you’re looking for. ]]></description><link>https://tanyjnaaman.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 22 Jan 2023 15:08:00 GMT</lastBuildDate><item><title><![CDATA[Reflecting on leaving mechanical engineering, two years later]]></title><description><![CDATA[Two years ago Just over two years ago, it was the December of 2020. I got an email from the School of Computing, indicating that my…]]></description><link>https://tanyjnaaman.github.io/blog/Reflecting on leaving mechanical engineering, two years later/</link><guid isPermaLink="false">https://tanyjnaaman.github.io/blog/Reflecting on leaving mechanical engineering, two years later/</guid><pubDate>Sun, 22 Jan 2023 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Two years ago&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Naaman Tan | Software Engineer]]></title><description><![CDATA[Computer Science undergraduate with experience in full-stack development and NLP, CV and Geometric DL. If you need an engineer who can quickly prototype concepts and scale them up, I could be the person you’re looking for. ]]></description><link>https://tanyjnaaman.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 22 Jan 2023 17:20:55 GMT</lastBuildDate><item><title><![CDATA[My evolution of resumes (and applications)]]></title><description><![CDATA[I came into Computer Science in the middle of year 2 - I had changed my course from mechanical engineering, mostly because I realized I…]]></description><link>https://tanyjnaaman.github.io/blog/My evolution of resumes (and applications)/</link><guid isPermaLink="false">https://tanyjnaaman.github.io/blog/My evolution of resumes (and applications)/</guid><pubDate>Sun, 22 Jan 2023 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I came into Computer Science in the middle of year 2 - I had changed my course from mechanical engineering, mostly because I realized I really liked machine learning. But finding jobs haven’t been easy, and I figured I’d share some of the wonderful resources I’ve compiled and little lessons I, too, have learnt.&lt;/p&gt;
+&lt;p&gt;Thanks to Kenneth’s &lt;a href=&quot;https://luyangkenneth.github.io/evolution-of-resumes/&quot;&gt;great blog post&lt;/a&gt; I learnt how to write my first few resumes, but at the risk of creating slightly duplicated content, I think I have some additional anecdotal experiences to share.&lt;/p&gt;
+&lt;p&gt;For context: my CS journey started in Y2S2, after changing my course of study. My first internship was &lt;em&gt;very&lt;/em&gt; lucky, as I got it through sheer luck via TalentConnect - I interned as an ML engineer at DSO. My second was at a startup called Hypotenuse AI. My third and fourth, both offered at the same time, was at Palantir and Apple respectively. Hope this helps someone.&lt;/p&gt;
+&lt;h2&gt;Year 2, Semester 2 (2021)&lt;/h2&gt;
+&lt;p&gt;In my own records, I applied to a grand total of 28 different places, with a mix of mechanical engineer, data analytics, UI/UX and ML engineer roles. My background at this point was of a robotics engineer and 0 CS background - I had literally just changed my course of study and not taken a single course. I got 2 offers - a startup called Cognicept, and DSO.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4413c1ba181393488c262342b8adac4c/44fd6/resume_2021.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 141.2162162162162%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAcCAYAAABh2p9gAAAACXBIWXMAAA7DAAAOwwHHb6hkAAADaklEQVRIx42V6XLiQAyEef+nyq+kclZCuAMYg81lDnOEK4BW32BNYbY2ta5SROboaak1moLcfOfzOWfr9VpWq5Wz/X4vv32sL5xOJ5nP5874AOD3crl09vX15S0MQzcHOP77+ztHgq/AqQ8PD3J/fy+VSsVZuVyW0Wgks9nMgx8OB9ntdrLZbGS73XqPRVHk1jvA4/Eo3W5XOp2ONJtNx6RWq3lW9Xpd0jSV//lcyACCPhwMpB/HkiSJmyQV2M/Pzz/za+s4kDQ4hmxoB4FUqlWpKjMYESqLbCF2C3ZtpGQymVwAT8qwp6G2SyUJGg3paOJbrZYzwIfDocvfbx+kptPpBZDFpWJRPt7epPz56ZRjAWKZkRbGro19CGKRwNKH3Gq35en5WUqqbqx57PZ6MhqPZa3ghMtiNi0WC2emOiVGzmHnc0gOKIF+vy9tBQa8paG3lG2gYYdZBQxUNMTDxnoYwBxC7si5Ff2FoW6sZYJQKpRPRXNaVaHq9ZqrM9QkdPMYgBxgrB2glYNnqOB4lMdXqg1pNC71yKEcgm9oFBzMeurYMzTZAYQJk2aEOUvXsliucnea9fxvYzBEoNzVu7u7kxcV5v393VtJw46inlt8KfSj90YEEgjpy4YJQGNliLokHGYwhmUUxdLTcawThNogIgXKWCq7rd7vv7rNRKWPNRdDBSAMVLdGYLV4+X+r8xv1O9mrmEsF5GBUts5TOCpgT4E+Xl6k+PoqQSYGTOk0hIJRHvg0nctMfUKtxpHrTIjku41dcAoZZak5A7UuRB+0cUJvtwMJm4GkCmwl40UhbgbZzAY8zKgx82bXjFMKW816IanKiUITgImpBhPA+W1jzDPGWkC4dtbZfR1S8YRHSOSNxWwm2bbJrhvqD3TelOU+z67ym2MIC4CDLI9mNoZ3DPV3U0XgQFS2UH3Z2EmwMiHYeG0miPMKFuo1HGlKEp2b0Rw0t7nmgOzcCkoA477aA4WnHkkNtbijJumFOrZSURJNxTRT2zfYojbYZ7122NPjo3xq64ItDQCDPSpTXufsrbHIONTEuzwBOslm2hZ5GasIhABzuzHcgutc3X7UYC5kAMsaMqUyVUUnqiTqop4pSOgJymdzqG4HAgaOE4U/1jQPvCXKxpmGc7g1BTjo5kP2pthTev2s/gG9gUe6lHzcDQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;My resume&quot;
+        title=&quot;My resume&quot;
+        src=&quot;/static/4413c1ba181393488c262342b8adac4c/fcda8/resume_2021.png&quot;
+        srcset=&quot;/static/4413c1ba181393488c262342b8adac4c/12f09/resume_2021.png 148w,
+/static/4413c1ba181393488c262342b8adac4c/e4a3f/resume_2021.png 295w,
+/static/4413c1ba181393488c262342b8adac4c/fcda8/resume_2021.png 590w,
+/static/4413c1ba181393488c262342b8adac4c/44fd6/resume_2021.png 789w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What I tried to do with my resume:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Follow the general advice and resources compiled in Kenneth’s blog post, linked above. Read that first!&lt;/li&gt;
+&lt;li&gt;In particular: focus on formatting for easy reading + automated resume screening, generally remove irrelevant work I did.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Some good things going for me:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;My resume was not empty, as I had done some robotics projects and helped a friend out with some software stuff.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;General mistakes I made:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wrote a unique resume and cover letter for every application. Cover letters don’t matter, and there “tailoring” a resume by and large wastes time without much benefit.&lt;/li&gt;
+&lt;li&gt;Started applying only in February. Everything interesting was gone.&lt;/li&gt;
+&lt;li&gt;Did 0 leetcode. To be fair, I was basically an engineering student and had no idea.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What I did moving forward:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Did not bother with cover letters. They take &lt;em&gt;way&lt;/em&gt; too long for virtually zero benefit.&lt;/li&gt;
+&lt;li&gt;Grind leetcode with feedback. In particular, I find &lt;a href=&quot;https://neetcode.io/practice&quot;&gt;Neetcode&lt;/a&gt; to be an excellent free resource.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Year 3, Semester 1 &amp;#x26; 2 (2021-2022)&lt;/h2&gt;
+&lt;p&gt;Having now gone from 0-1, I felt a little better. My aim for this application cycle was on startups. The main reason was the belief that a (good) startup would grow me more as a budding engineer. In this application cycle, I made about 68 applications according to my records - but it’s probably more, seeing as I stopped logging them after a while. I iterated through 2 resume versions.&lt;/p&gt;
+&lt;p&gt;I got a total of 3 offers - World Quant, Hypotenuse AI and Affable AI, and took the one at Hypotenuse AI. Their interviews were &lt;em&gt;by far&lt;/em&gt; the hardest - it was 3 hours of non-stop grilling. Convinced me that they knew what they were doing and there was high learning value in joining them.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/484d7723f7d10039bd7914353b257e84/83e77/resume_2022.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 141.89189189189187%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAcCAYAAABh2p9gAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAEdElEQVRIx21W2Y7jNhDU/39SnoJggSBYZDczHh+SrMPWLes+fXeqKMkzwK6ABimabHZXV7WsPZ9PUSa/Ply7Ph5yezyV1eNFLvfHb/fRBx/ttYiDRZ7L+XyWcRzlerlIWdeSVrWcylKyqhI9jCQqShmHXtq2wb5BBsxldkan2h2OmvMFt5/lECfi56X4WSFxWYt3yiTAe5DlmJ8kLgoJ81yte2kqPn/Hb0U/SH+9TRGer1ex00wOcNIMo9T4sR6w4XKVAZu6efxq59tdGff0zKTtpGwaud/vorVdJ9/fVvJjtZaPrS7v6638fP8Qzw8kRVRJkkiSniSKY2Ux3gOkHkSR9H2vEKzrRrwgBARn0QbgZVi22IejGLYjtufJ/kA7ys52xTp6Ynm+6I4rHhwSS2J6KisZEeEFkX4tqErZAXbEpW5b6XFBi5RpDSKYxkG6eZ1jj0i4r+56qZBuj/Xb7SYP1EMbUdWt5YjhHhGlJ0eE7rOauGRJ8YAIu65/sUFVdbYkSSVhcaIYjkfRbgg5RqUMpMQ0HWDnhaFy7MExzcdmWohLAlwSYORcreP3GBj7wPSKKDV63QHDtW7KB2y1MyXEBqbR9ZNxzn0DrAMMDdLkeoXK6ntbZcaR+7QbSh0g7An8AEXx5YibU0TNVBJU+pQXkmTZ9I6xATNqOKubVkoQv8UlHC+oh1JKik1bYy97pL3bW2LOow5sTdtW1deRBdcs9yAZ1EIV0QpUu0Dlc1T+DIForAyj2Jh7bAaOjqMcKIcwwqHPxjXaATjTyD1iHeP8GQRXtCEZme4bSO3HqaIFmT9iAy+jUQGUKKnB+RWp0cgQOo0AGYv0qnIyV9lwDso5q21jjKFXVnmpKi3C2vLO1MldXvIiNotSIKIEGCTAg0bBB6dcgd4A/BaHGhhlSmvmd0apsmAGC7FZ/j/+/CZ//fOvrFB6E5UOcPNx7iQBKhwXU8fxs6nTZNDugHSpJBoVMwA61b5aRPf39x+yUjzciwlOuaBNBEcnHIwZNSiRzCPXOhymZKllGuePpcEOION/H1vZwOEG1HnDnM3iKy6/7+WfD1NPETkrrfFgCDmRIia6y9J5CPpR0SJQVLIOLvhpK86SfzlgIP9YVDpskfYdnweNuevg3fvOkM3ekbUJrvFdNyTErS0lh1bPzwJt+XYsDxWVF5W6iDTSKOgEbd2a+6DpflKHxnkEbZM+jHgh9B77SOhWFWT8pM0TXzPmv4VSTHtSydYknqaCQFcStMWlxuGI3YZw8ILlInYbSu+Kz4NGINmZDdgBlHFhFnqjAR0Ty8VRCDXEMD+MVYrLQ2cnfsiwPlLLlBOV4vq+apJTBPGkiGjqfex77JEO0mfKLuBxYIyOLezxBVeNIGcI15oxowTZbXiYES7GKAl8TGLjc8rI2GlYccrv5ZA9TD/6soaOdzi4Ybp45xePh1RKyIBO2AMrOKD8ns+5acD454A0ulzmlEvwqSCvYBXmGVWSTw2WGxfjOtcqqGXpPtQx6UT6sB7/AwDeQrXvFdysAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;My resume&quot;
+        title=&quot;My resume&quot;
+        src=&quot;/static/484d7723f7d10039bd7914353b257e84/fcda8/resume_2022.png&quot;
+        srcset=&quot;/static/484d7723f7d10039bd7914353b257e84/12f09/resume_2022.png 148w,
+/static/484d7723f7d10039bd7914353b257e84/e4a3f/resume_2022.png 295w,
+/static/484d7723f7d10039bd7914353b257e84/fcda8/resume_2022.png 590w,
+/static/484d7723f7d10039bd7914353b257e84/efc66/resume_2022.png 885w,
+/static/484d7723f7d10039bd7914353b257e84/83e77/resume_2022.png 889w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What I tried to do:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I made a website/linkedin and added links to them.&lt;/li&gt;
+&lt;li&gt;I added a quick summary. I doubt it would work, but also figured it wouldn’t be a bad thing to do.&lt;/li&gt;
+&lt;li&gt;I added colour for quicker readability/highlight what I thought might be important.&lt;/li&gt;
+&lt;li&gt;I added more concrete descriptors (e.g. improve performance by 700x)&lt;/li&gt;
+&lt;li&gt;After asking some seniors who did hiring, added a small section on the tech stacks I’d worked with (or figured I could learn fast enough for an interview).&lt;/li&gt;
+&lt;li&gt;Removed my JC from my education, since I didn’t need the “filler” anymore.&lt;/li&gt;
+&lt;li&gt;Added a project that was my website as a showcase that I could do &lt;em&gt;some&lt;/em&gt; frontend dev. I’m still shit at it.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Feedback I got from friends/interviews and mistakes I made:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Resume looked a bit haphazard. Colour was nice, but could be hard to read. Uneven spacing/line lengths made it hard to read. Too much content in general.&lt;/li&gt;
+&lt;li&gt;Did not do enough leetcode still, was struggling with hackerranks at medium. Honestly spent too much time chilling/studying for mods.&lt;/li&gt;
+&lt;li&gt;Did not apply widely enough. Focused almost entirely on “high success” applications as I was afraid of rejection (e.g. did not apply for FAANG, Indeed &amp;#x26; similar tech firms, or banks/finance).&lt;/li&gt;
+&lt;li&gt;Courses don’t matter for CS kids.&lt;/li&gt;
+&lt;li&gt;Make sure links in resume aren’t broken - one of my interviewers tried to see my stuff, but couldn’t.&lt;/li&gt;
+&lt;li&gt;Make sure you can be &lt;em&gt;grilled&lt;/em&gt; for everything you have on the resume. One of my interviews did a &lt;em&gt;deep, deep&lt;/em&gt; dive, and I couldn’t explain some of the work I did/some of the tech stacks (but generally did ok!).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Some observations:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Generally got past resume screen for ML/DS related roles. At those points, generally did well because algos would only be one part of it. A big part of ML/DS interviews are theory heavy, and those require a different type of preparation. Checkout &lt;a href=&quot;https://huyenchip.com/ml-interviews-book/&quot;&gt;Chip Huyen’s&lt;/a&gt; and &lt;a href=&quot;https://rish16.notion.site/Machine-Learning-Bites-7c1675ecb587451e9caf793c68972276&quot;&gt;Rishahb’s&lt;/a&gt; excellent resources for those.&lt;/li&gt;
+&lt;li&gt;Barely got past resume screen for any SWE roles. Which made sense, given I had basically zero SWE dev experience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Year 4, Semester 1 (2022-2023)&lt;/h2&gt;
+&lt;p&gt;Generally, I was quite happy with this application cycle, though it wasn’t easy. I applied to a total of 112 companies according to my Notion, and according to my learnings from my previous cycles, literally applied for &lt;em&gt;everything&lt;/em&gt; that looked interesting to me. These included banks, FAANG, other tech firms, startups, anything and everything.&lt;/p&gt;
+&lt;p&gt;The sheer number of interviews I did helped to keep me warm, as did the leetcode, but it also really told me about the types of companies I really didn’t like. Just as much as an interview is about them evaluating you, you are also evaluating them. Moving forward, I’m pretty sure finance firms/banks ain’t it for me. I really didn’t like GS’s or JPM’s (and a few others) hiring styles. But startups and big tech are still pretty cool, except for some (ahem ByteDance).&lt;/p&gt;
+&lt;p&gt;I got a total of 5 offers - Apple, Palantir, Worldquant, Munich Re, AMD. I’ve accepted Palantir and Apple.&lt;/p&gt;
+&lt;p&gt;Something I noticed was that for some reason somehow this year’s replies/rejections/advancement to next round seemed super slow. As I write this in January, I’ve gotten about 5 emails telling me I’ve passed the resume screen - despite applying in October or so.&lt;/p&gt;
+&lt;p&gt;That said, I’ve also gotten a &lt;em&gt;ton&lt;/em&gt; of rejections this year, and for many parts in this cycle I was pretty demoralized. I stopped counting when the rejections hit 40 or so, lol. I guess more applications also means more rejections, because my rejection rate is probably lower than it was in previous years.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What I tried to do:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Grind leetcode hard. Previously, I did leetcode only to warm up for interviews. This time, for the first 6 weeks of semester 1, I did 2-3 medium/hards a day. After, I would do 2-3 medium/hards every 2-3 days. Every time it would be timed, and every time I would do it as if I was in an interview. It was exhausting.&lt;/li&gt;
+&lt;li&gt;Record my leetcode progress. I kept my leetcode solutions on Notion, tracking how I solved them, the topic, their difficulty, and how much time I took to solve them. This helped to create a bank of solutions and also let me visualize how I was progressing.&lt;/li&gt;
+&lt;li&gt;Make my resume more concise, and make one for DS/ML roles, and one for SWE roles - their stacks and skillsets are different. For SWE, the focus was more on typical stuff - tech stacks, the product life cycle, etc. For DS, was mostly about the techniques for model development and applications.&lt;/li&gt;
+&lt;li&gt;Prepare a “summary” of myself on Notion explaining my resume Things like how I chose each experience and the key experiences for each. It would help &lt;em&gt;a lot&lt;/em&gt; for resume deep dives and HireVues.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3e39563f49e80dc348594ba6d8d94b51/38af3/resume_2023_SWE.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 141.2162162162162%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAcCAYAAABh2p9gAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAE20lEQVRIx41Va3OjRhDU//8/+ZR8SFKXu+TO9tnWGyGJNwgEQgLxEOC+nsH2JXVJVVTVmn2xO9vTMzt5eXmB4N9+MtoNwMDGrQfKZmz/sO51D8Fk/AzouxvK4oK+79Cx3XctTucScV4jO1dqp3aFompxayvUdYXbrUHbNv9wYXKjC1nZI0orrHYRNl6GrZ9hH+TYeinsKMfGSdg+wgqOtMnYdw9woxRBkiO/dkSPge5PiqrD3L7ADEqcyg7ppVV75oLzdUBRD7pY2pdqRM7229VbclHVLa5VM26Yny/4ePeMx/kKi9UK89US8+USh/iALDsiOSZI0wRHIjnG74jiCJbjYLXZcG0Mzw9IVYfJpSgwX6+xtSzM1hte28HCtNTON3usaY29yzEbpu0jOuYIkxORIaK9XMlj/53FSUmSV9YRTnRCwc0v1xsK4lS0CunntPl7X+joIFSVdfe6rmGAujHK56LC/dzG3AyRXWpUTY9r071K6UU0MQJvffI3dGqr6xVBGJICOuTxyn2PScudt7aLp+Var/i0NJRPY2uSIwu258DxXW3vbfZdBy77tmPDCzy2PWx2Jly2e9mwJ5E7a4e7x3tMF1M8zZ5w9/UOX6dPeBTMnvHx85/4469P+Hx/hy8PnHt+5CEeTnmO9ESqyoKRrsYrvwwD0izV08IoRBAFcELq0A3oFT0IQnrpY++42NkOtnublh76PjcNdO6Ynf4elAaGFWJHoQrcIKEMRC4Z4mNKeSQIDjF192POyRXDQ6xrg+gwXlmEadghvi5McuhguRs92YsXPN32PErKVg8t19M5sVvbhsU5WeMxMF4Y6aGay3ESaxB2JN1yRawmZisDK3OL9XaH6XKFJcfko+BwUK99tvPLBXXTkL9arXIoaWMHVD5z0j/Q9ThDcxvwf34D+ZdMKymf7JSjZ39SNTesyeF0beHZcDAlbPKYkuhjlo1IMySEeCZRjZJE+0maUjaBBkc4fC1f4KBPecywMAymoaFXfJovcPc8pSYXnJuTgjV2rzzuBWwLBbKZtIUC8Xgif3KqTaVHyXHkJ4rVivol0geOi0cSbfEuYjGQsbdx4a9p2zEoFdMsONYIsgZhdoMbV7APUlhJ8iBp1iu6rldZDISMk0FNP03FfpzTK5/yM3759QM+3U8pG49F4szNb9iHJUy/wIbYBgV27FtRibV74aEMwqV5h6Tv8LbhgVf76eff8PvnOTHFh4c1vsxs/Sg6tfS6gX9s1HpJTdsiSFt4HPPThpWGz0U/KH+6YVGUDMKauTvH82KFBwnEdMb8tphmllqHAha7p6hfhu/FT96dhIVWqo3wqpkiu0pnudlqRpjEhhsJJGclsibzVwQu81vLec9ry49gOBlMJ6L0An0OJg0jtDRMymSp0hBrUwqn81mjKFEWvYkSRMQZK0z2WmVO5wKMKeI058GhXn0i74AXBPoEWDzZpsYs9crSuucwFS3WvmtV8cm8qTwUjaBBWZZqa6afcnitb3wSE7qdjNYdn8yNTa0xKOLBfz3qgvOlYD3ki0m1qLBv9NAmF1qplxs8LtaYGVtMVyYzZaHjBvmTQrEwNppJ691O28Kjz5STgiGPnRQ4DUrd1Oq6XOtaXZnspZ4q9nqVfoUzPyi1Tei6Sr0TroVboUN+3wB30Dow6WpVqQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;SWE Resume&quot;
+        title=&quot;SWE Resume&quot;
+        src=&quot;/static/3e39563f49e80dc348594ba6d8d94b51/fcda8/resume_2023_SWE.png&quot;
+        srcset=&quot;/static/3e39563f49e80dc348594ba6d8d94b51/12f09/resume_2023_SWE.png 148w,
+/static/3e39563f49e80dc348594ba6d8d94b51/e4a3f/resume_2023_SWE.png 295w,
+/static/3e39563f49e80dc348594ba6d8d94b51/fcda8/resume_2023_SWE.png 590w,
+/static/3e39563f49e80dc348594ba6d8d94b51/efc66/resume_2023_SWE.png 885w,
+/static/3e39563f49e80dc348594ba6d8d94b51/38af3/resume_2023_SWE.png 894w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/454eed8dd74ab3edc6e7d31cb8eaee03/b04e4/resume_2023_DS.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 141.89189189189187%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAcCAYAAABh2p9gAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAEx0lEQVRIx21Vaa+jRhD0//9X+bBSpH2bd9gGzG0wYAw+uE+7Uj3YbxMlSKUehpme6a7qZvV4PLAA/3lkapiBUXAHLg3QT/jf5+VntWyTmTuulzOGoUfXd5jGHtdbgZResmtNVNDDCvG5xtDVKMsCbdegaWrc7/fvK6zm+wN5OSG9DTD3GeyogBvf4CclnMMFQcr36Ao7PCNMZf4Cm/NedEac3XA8l7jWI27NjHGiw5YxbLwrtP0N56JHfmtxKXuUzYSyvaPp77SzGlfdHXW3vE/PS3X9gLppUdUNHU5Y1Rz8/FjjfaNho+uEho/1Gof4gCw/4ZgekZ4WyPj1HiUxgsMBa03HKcsQxQmatuUNuw6m48ALQxi2A2sfwfQj7LwDdCeASStzhhvSxkjPktdS2Yy2bAZF3OtZdf0Iw89VXsqqQsUFVTty4agW191ib/UCmS+Iqp34bcKV6TkXLQkaMM+zOBzwrgf43B14as1F87KpXjbJeJ7vTxE9lBoe95nMMo/jiDhJVMjBIUbbdlhNTOQ+ivGxZQ53Fj40g/nc4u1rgy/DxNa0YbkObM9hakxlXd+Dv/ewDwOEEVPiWPACX8ltNc+TSvDndgPDMhUxa20DzaAlQbq5w/v6C1/aFhtDV9/lAJ85D+OYxOXcn+B8vSo9riTuLM94usVFARzPxc7dw/IDnkyyAhLj2Ir9r+0WO9vGx2ZNpx5uRYmu6yHEfpMiIcspSZoqpNkJUUoRJxmSo8ydeJNEVU3dNNRbraw4EZkc+E3WnK83jOO0sKy5R6ztGLqbUBon5TjLzzg9IRvE0cRoRhIxDAStOI0S6jLL6fioRL6Sgpb4NdOC4+/h7APolgONBIkuBRtjhzWhc41823Fu+1yfMjpxKFZVimL5QCE7LnPlKSs3kpvJovxy+b6p5Es2zUy+sryx3Lxh6RVlpW69EkEaXkok0Jwjw08QZcvHfhi+rUBy1jFMqd0lh0vIxxNLL0kXh0K15Oyv9eY7tE/Wp7y/fa2V/UUrcxo1aZJdy/NVKlwqQORjP1Mlh9LhQzFkuj4lEqoPFhe4+2Cp8UDEG6lGIHqLj0eFgxqniDgupGQZusphw5B/rj28GwfswhJmWEAPCvbFCteqZwkKhqft2No6ZaeJJUkI6y8oYYum/vjxJ368rfG2caEzn0E2wkla2HEDizDCWo0FZrTMhVmnII25H++/hS0Of30yf6bPWvYpBx+6HagOIgulo7SDNNpZNYuWVsaqibDRttSxKEUIUd2m73vqS8pJSotkCBFsDDJnUkKGZSu9SanJ3KvMHuw60gekbPMzJUamn6TcqbFcCXv31KGwaBJCjB8elEOZF8KEUSFP4IdsxkHOf1GKjeWzNz7bl2wU9e9sVzkOKPS6bXCmqPMnrkWBW1myIRS4UBWCK5uD/FalKQdxqsJfSV26PG2tm9BYVoaAjuXd5i1FLntKR7q5qmVeYGGVeWOIF5atfJNKkXnVHOwgU81hS3ya/Jd4R3xZESz+OuO8UiXXqApp1N+tbVulOyFCqkcqpqyWd9UP5RTH9/8FmxBCJHeSN9N11dhgP1Q5JkkC6QMBO77woHQo3Uby+KrbYfynWJfwpmn+nnuFLVZC7vqlwS7/HeBvcSI2POHIIlIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;DS Resume&quot;
+        title=&quot;DS Resume&quot;
+        src=&quot;/static/454eed8dd74ab3edc6e7d31cb8eaee03/fcda8/resume_2023_DS.png&quot;
+        srcset=&quot;/static/454eed8dd74ab3edc6e7d31cb8eaee03/12f09/resume_2023_DS.png 148w,
+/static/454eed8dd74ab3edc6e7d31cb8eaee03/e4a3f/resume_2023_DS.png 295w,
+/static/454eed8dd74ab3edc6e7d31cb8eaee03/fcda8/resume_2023_DS.png 590w,
+/static/454eed8dd74ab3edc6e7d31cb8eaee03/efc66/resume_2023_DS.png 885w,
+/static/454eed8dd74ab3edc6e7d31cb8eaee03/b04e4/resume_2023_DS.png 888w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6bed62349f78e84b60f3882ddac78bcd/1843f/leetcodebank_2023.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 28.37837837837838%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA80lEQVQY02WQ607DMAyF8/6Pxz/E6AS0k7YmaXNvUtqDbegQw5IVx46/c1rVnTucTi84d69yrusKjn3fcQTXj0ldPAb3lbUWOSeUUrAsy/cCDbc/y/9j23+Ftm2718p7jxijAI/0twEleoQQ4NyMlBKJZnoXpE7BofjxDucZc/jrlB5HzPMkl1KywMPlHS1H+ODhnZPk/gFOJGbmK3JbBMgmHL2ptUIZo4nuxC4PBHi9oBGcHbIyn9znX8JZUoTpn1GX8APMwmitQQ1DL0sMZAe8bLsnFKdhpxnWGFhroLWW5NqSieHtA/04oa6fyLTHs0piX0Qm0KgEcJbFAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;My leetcode repository&quot;
+        title=&quot;My leetcode repository&quot;
+        src=&quot;/static/6bed62349f78e84b60f3882ddac78bcd/fcda8/leetcodebank_2023.png&quot;
+        srcset=&quot;/static/6bed62349f78e84b60f3882ddac78bcd/12f09/leetcodebank_2023.png 148w,
+/static/6bed62349f78e84b60f3882ddac78bcd/e4a3f/leetcodebank_2023.png 295w,
+/static/6bed62349f78e84b60f3882ddac78bcd/fcda8/leetcodebank_2023.png 590w,
+/static/6bed62349f78e84b60f3882ddac78bcd/efc66/leetcodebank_2023.png 885w,
+/static/6bed62349f78e84b60f3882ddac78bcd/c83ae/leetcodebank_2023.png 1180w,
+/static/6bed62349f78e84b60f3882ddac78bcd/1843f/leetcodebank_2023.png 1186w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/02a1d2a1e4818d60e3d50f4c3c9fba5c/bbb77/summary_2023.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 170.94594594594597%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAiCAYAAABfqvm9AAAACXBIWXMAAA7DAAAOwwHHb6hkAAADQ0lEQVRIx5WW2VLjMBBF8//fNkXN8DJhKHggjuPE+5LFxEGj0+0WDhBIXNWW5eXq9u1FnsXLpbu7++UeHubu/v63m8//usfHf+P8j6vrynG8vb25a45Z13Xu+fnJRdHCLZeRY4FVHLtktRLwtm0D4DU2O51Ormlql6WpS9ONK4rC3XJMwYQhp65rXZalHix3eZ7JfLfbyYi1bePwRK0V1jZ+BJ9xen3tXVWWwq70I6BZlskCZVnI3BbTe6XO/Tt1Xbvj8fjOEJeH4Sgv4DK2XicBdLNZ+2uepXJd+OuqUkCei/lnMA4uc6xWsVgcL8UATZKVXDNGi4WA2kL5aLroxm23WwWE6jAM4gbG6rgp1+K+MuHefr8XOxwOXqZXtb6XEbcDIBNWUYbKlBQifRaLF2HJnNQKz0ZvWAyZIHDmMszORS+EYVVVMie1lHkRWJP0fX8Yme80yhZudLKVxWJlovq9yIiukvyjzpv1WvVOEgENgGgAM6KYetf5mADAxqLLPQnIWAAsSu7CEjAwgssg8wJ6MaKVsvAsI9VSSjOKzvRkbl7tfSGcaVh7ragEtOh95EwbKsYiK9feGA8HvWfPQnMwl3GpJBAe2CoAY24VQ2DyMYUoOy1JLUOK44yhstn6BO3kZT6CMQmrwKV4wYg14z3G3eiuBIUc5AME1pcrWfmWHjjtOpLY5BUC0wMxK6Nbj5A2uEiOkR40WLRCgn4sKy0tNSs3Kz8NYP9eepyIKC6TY2ufrNp1NMfUapGBkcXQlij3Aqz1zWITwF6yHZYAAygLjD3R7pHY+XiPtnfRZaIrkfQ1q2xauQaoaRr5+HQawkh3+mo/mWwBndSllNjYTQgUwbGUuBSET7seJwQtyamidOnjk0vo2J7ddM+4xOgjaAAUwX0A8qrxTNOQQrj81e52cV82wNaLXnt3U3F9IxJYoCwvL7H6BCgvecH7ypebZ1R5o8ykqfr6th3OIvstIBHDLVLE6hQA6dQejJSauvzjr4gBakMtwz5se+8U8LvongFa5/0pPa7SUP9ttKysoepvSHezuyPgEPYTLbdU9hWaBDreDIjLBELrWLdGNLzGvYsus09omjRu23XSWVjoloS24z/eDUdQWSFQBgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Interview prep&quot;
+        title=&quot;Interview prep&quot;
+        src=&quot;/static/02a1d2a1e4818d60e3d50f4c3c9fba5c/fcda8/summary_2023.png&quot;
+        srcset=&quot;/static/02a1d2a1e4818d60e3d50f4c3c9fba5c/12f09/summary_2023.png 148w,
+/static/02a1d2a1e4818d60e3d50f4c3c9fba5c/e4a3f/summary_2023.png 295w,
+/static/02a1d2a1e4818d60e3d50f4c3c9fba5c/fcda8/summary_2023.png 590w,
+/static/02a1d2a1e4818d60e3d50f4c3c9fba5c/bbb77/summary_2023.png 765w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What went well:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Leetcode grind made a huge difference. I was generally 100%-ing most hackkeranks - except for Bytedance and Google’s OA.&lt;/li&gt;
+&lt;li&gt;Summary of myself made my life much easier for interview prep.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;What I could have done better/feedback I got:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Resume is still quite cluttered and hard to read. At least 2 interviewers appeared to be reading my resume for the first time during the interview and seemed to struggle to digest all the information.&lt;/li&gt;
+&lt;li&gt;Was told by a friend doing hiring that summaries don’t usually matter to HR or the hiring manager, and instead they look for experiences/familiarity with a certain tech stack they are looking for/general evidence for the character/skills they are looking for.&lt;/li&gt;
+&lt;li&gt;Prepared better for theory questions (e.g. explain how the DOM works, how React works, what is RESTful APIs, etc.)&lt;/li&gt;
+&lt;li&gt;Apply for the one you &lt;em&gt;really&lt;/em&gt; want only when you’re sorta warmed up - Stripe was my first interview, and I flunked it,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What it looks like now&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; margin: 0 0 30px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d0e0e579ed9d4933559fc1c77fecc6b8/2e237/resume_2023_latest.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 141.89189189189187%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAcCAYAAABh2p9gAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAEcUlEQVRIx41ViW7rRgz0//9U0b4AQdskvq37lnxLlmTL8hFnyqGf9F5bFKiBCXc3uxQ5w+UOrvcvNJeHor19YX24oT5/4v/+vr6+/oZB096w3J2QCXaHM2ZhhWBV43a9oGnOOJ/PuF6vuFwuaNtW0Y1p//kbFNUZI2uJsb1CmO3RNjWOdaWOeKhpGrWcc9xZoq5rnE4nXTsej3g8Hhjs8gq//j7D64eFt7GF94kt1kSY7hAvc/jJFkG6x3pXqgMe7JxsNhukaYrdboeiKPD5+YlBWZZwHAdRGMLzPARBAM8PYFo2prM55osFXM+HbTu6L45j7Pd7dUab57k640eUw6o+YWr4CBLZULbYHhrh5orbjbgp7vebpPOpEdzvdwXHjHa1WqnjLMt0XRweYXsR/DCFG8QI40yiSJAmidhII06SWA4/0+3Q8Ufe/iXKm7HC0NogEs5OxwqkgZHXp1ZR1g2q41OQn1FVVS9aL0otA8O0FbP5AqZpCl+WRJvADjcqihWs4cVr5MIV+SJvh8MBURTJXhvr9VrTVlGYNydRFML3fVUtEIFimXuuhSgQoTwHtmXAdZ7CWJalliCHjK5PmcXJxWy5xFKx0vl6I6WyrwUVlluixK6oNUVyR8toqTajJaeaMv/hui4WUh7z+RyGYcCQse36MN1YBEswt0LMTB+uH+tHmQVVZUYste122ws0YFkwZdZXKKnyALnJmLqkm4jSUSgHXdZq8KxTcUJnTJmOKU6fMtXiJm6g5aZQDoZRgmBZItnUovIZl+/Xr7vPLGJWA6Nj6rR9hHQ0m82UbKo8Go0wmUzktliyZusaKaElJVSWkZFrKk6VGWWvMh3SCQ/xwHD4geHHGz7e3zCdjPD25x/47ds3vLy84P39Ha+vr7JnKAWfKEV0SD+9yh3JT8h4kyMTZVe7WmythX2VfSS+A8Vkyt3VIzRl9jqm0EVoMS3TwcJ0MVtIurao65Fbu1eVVUHL/RSSZcOOo3eZeTNsburE8X1P+fSDUOFICS0MS/niQYIR0bIOu3amEXLiOM8vMtLuFvhRBi/N4SV7RSDjsqz6nkilqSzpKr5fSRXlIX+yNFZV6dgWZ+x9dL6Yz0T9qaZrmobu6S4A96RppsKQz74Om/YOf1mhOJTa+kvh41DkqMqDRFSgrkoF5z8s94gQu61EudF19kttsPuixC8vbzAcaQirgzxY0jSLVh6tM7L9GdGmUSS7BvG2QSrrRChry1yK/HJH3VylvbVPDlkScyuA4SaY2TG8rIS3uSLcXmFlLbz1Bc7yaU2Z+5sL9vUNuaA43XFqHyibB44tn1E22PqCdzvHPDzASioMHRkHOcZeoU310vIZvfQvHznv32RJ886n4tpKnT6v44CKTadzIXwqZC+0yQ5HY4zGE1mfqRAUaDqdYjweaxNJ5QIkoi4rwpC6Xa3Wuq51yC/x/Vgs5gqbm4yFqvcz2IF4iGBZdTXLcmMp8cZphLwp3TVixfOScwNr6r9A8olu/nwZ72r/AuYtK/gMHAD7AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;My resume now&quot;
+        title=&quot;My resume now&quot;
+        src=&quot;/static/d0e0e579ed9d4933559fc1c77fecc6b8/fcda8/resume_2023_latest.png&quot;
+        srcset=&quot;/static/d0e0e579ed9d4933559fc1c77fecc6b8/12f09/resume_2023_latest.png 148w,
+/static/d0e0e579ed9d4933559fc1c77fecc6b8/e4a3f/resume_2023_latest.png 295w,
+/static/d0e0e579ed9d4933559fc1c77fecc6b8/fcda8/resume_2023_latest.png 590w,
+/static/d0e0e579ed9d4933559fc1c77fecc6b8/2e237/resume_2023_latest.png 790w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I’ve since revamped my format a little. In particular:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed the summary.&lt;/li&gt;
+&lt;li&gt;Separated skills and projects into separate sections, as hiring managers seem to like to look at tech stacks and langauges and then test you specific parts of those stacks/languages. This might make it easier for them to read.&lt;/li&gt;
+&lt;li&gt;Generally prettified it with a more readable font.&lt;/li&gt;
+&lt;li&gt;Removed custom formatting that I forced via drag-and-drop - that might have been screwing with automated resume screening tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Some personal thoughts&lt;/h2&gt;
+&lt;h4&gt;1. I am not that good at algo questions, but god, &lt;code class=&quot;language-text&quot;&gt;leetcode&lt;/code&gt; really helps&lt;/h4&gt;
+&lt;p&gt;I flunked the Google OA and Bytedance’s one I found really hard. Apart from that, regular leetcode was really helpful. Beyond that though, I started to find myself enjoying doing them daily/every other day. It was like a fun getaway where I could plug in my headphones and just do some dumb coding. Was fun.&lt;/p&gt;
+&lt;h4&gt;2. Prepping for content is helpful&lt;/h4&gt;
+&lt;p&gt;Bytedance grilled me with theory questions I was not prepared for. I will prepare for this going forward. I took CS3219 this semester, though, and it was very helpful to have that bank of knowledge in addition to my own experiences when facing tricky real-world-like interview questions, especially in system design (&lt;a href=&quot;https://designgurus.org/course/grokking-the-system-design-interview&quot;&gt;this&lt;/a&gt; is a pretty good course).&lt;/p&gt;
+&lt;h4&gt;3. Cast the net wide&lt;/h4&gt;
+&lt;p&gt;Consider:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2020: 2/28 offers (7.2%), 3/28 (10.7%) got past resume screen.&lt;/li&gt;
+&lt;li&gt;2021: 3/68 offers (4.4%), 7/68 (10.3%) got past resume screen.&lt;/li&gt;
+&lt;li&gt;2022: 5/112 offers (4.5%), 12/112 (10.7%) got past resume screen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Maybe this year is skewed since we’re only in January and I’m stopping the count, but still, looking at these numbers and their stable proportions, I can’t help but wonder if it truly is a numbers game. We’re also in a strange time of hiring freezes this and last year, so perhaps that’s also affected what I would have expected to be generally growing proportions of success.&lt;/p&gt;
+&lt;p&gt;In either case, I will take these insights to cast my net wide and far - apply more, and you’ll probably get more chances.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Reflecting on leaving mechanical engineering, two years later]]></title><description><![CDATA[Two years ago Just over two years ago, it was the December of 2020. I got an email from the School of Computing, indicating that my…]]></description><link>https://tanyjnaaman.github.io/blog/Reflecting on leaving mechanical engineering, two years later/</link><guid isPermaLink="false">https://tanyjnaaman.github.io/blog/Reflecting on leaving mechanical engineering, two years later/</guid><pubDate>Sun, 22 Jan 2023 12:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;Two years ago&lt;/h2&gt;
 &lt;p&gt;Just over two years ago, it was the December of 2020. I got an email from the School of Computing, indicating that my
 application to transfer my course of study to Computer Science had been successful. I distinctly recall the moment -
 I was at the robotics lab with my team, working on the gimbal mechanism for the Standard Robot. It had been a pretty good day actually - development was going well and we had a good amount of momentum going. I also recall that it was the third round of ModReg - for the uninitiated, ModReg is the module registration system at NUS, and having 0 modules registered in the third round usually spells death - and it was the exact situation I was in, given that I had now been newly promoted to a Computer Science major.&lt;/p&gt;
@@ -6,12 +319,12 @@ I was at the robotics lab with my team, working on the gimbal mechanism for the 
 &lt;p&gt;That semester would begin what has been the very wild, often times wonderful, but equally frequently emotionally, mentally and physically challenging journey that I have been on for the last two years. But it’s been a good two years, and I figured I want to reflect on it.&lt;/p&gt;
 &lt;h2&gt;Why I joined mechanical engineering&lt;/h2&gt;
 &lt;p&gt;We have to go further back than two years ago for this. Back in 2019, I matriculated as a double degree student in mechanical engineering and economics. Why mechanical engineering? Well, it was sorta related to why economics as well. In much of my teens, I - and I suspect a good number of my peers at the time, too - was very idealistic and going through my own struggles with my health and in school. And this idealism manifested itself as a deep desire to do something somehow so great that it would outshine all of the things I had thought of as my failures and my points of shame. In particular, I had settled on the decision to enter the civil service, and so I thought covering my bases in mechanical engineering and economics would make me this special individual.&lt;/p&gt;
-&lt;p&gt;It was not quite meant to be though, and cracks started to show even before I began school. I turned down the seemingly-always-coveted-overly-prestigious PSC Scholarship, and a lot of with was to do with my reservations towards engineering. But the train had already left the station - I had already accepted an offer from NUS to study the double degree, and I figured I’d just go ahead with it. I wish I could say I thought it through and decided it was a risk worth taking, but really, it was me intentionally ignoring what seemed to be warning signs in my head.&lt;/p&gt;
+&lt;p&gt;It was not quite meant to be though, and cracks started to show even before I began school. I turned down the seemingly-always-coveted-overly-prestigious PSC Scholarship, and a lot of which was to do with my reservations towards engineering. But the train had already left the station - I had already accepted an offer from NUS to study the double degree, and I figured I’d just go ahead with it. I wish I could say I thought it through and decided it was a risk worth taking, but really, it was me intentionally ignoring what seemed to be warning signs in my head.&lt;/p&gt;
 &lt;h2&gt;My three semesters of engineering&lt;/h2&gt;
 &lt;p&gt;The first three semesters were… interesting. Interesting is often the word one uses to describe gifts they don’t like in an effort to be polite, and to put it lightly, I found engineering (at least at NUS) to be a load of horseshit. At least for the first two semesters. Math courses were more about exams than derivations and proofs, labs were overly simplistic, and I hardly learnt anything more than what I’d seen in JC.&lt;/p&gt;
 &lt;p&gt;It added to my sense of disillusionment towards engineering. And I started realizing that me not liking engineering really could be a real problem. So I spent a lot of time doing random projects - some more than others related to my courses of study - with the intention of finding something that I would go “this is it, this feels right”. After all, you gotta explore to know what you want. And at that point, all I knew was how to take exams, and not much else.&lt;/p&gt;
 &lt;p&gt;At the end of my second semester, interestingly, I had a chat with this friend of mine, Jessica - and she mentioned that she was considering changing her course of study from Chemical Engineering to Environmental Studies. She, too, hated engineering.&lt;/p&gt;
-&lt;p&gt;But my seniors insisted - engineering in year 1 is dumb, year 2 will be cool, and will kick your ass. So I decided to keep my mind open, and try another semester of engineering. Year 2 came along - and I carefully selected my classes. I hadn’t told anyone of my idea of changing course - it might not come to pass, after all, but I knew I needed to begin exploring. So I did 7 modules - some more focused on engineering (fluid mechanics, strength of materials, introduction ot material science), some more relevant to my second degree in economics - I wasn’t giving this up (statistical computing, accounting for economists), and the class that would change the trajectory of my life - introduction to machine learning. I also threw myself into a robotics club and begged to work on all systems - mechanical, electronic/control and software systems.&lt;/p&gt;
+&lt;p&gt;But my seniors insisted - engineering in year 1 is dumb, year 2 will be cool, and will kick your ass. So I decided to keep my mind open, and try another semester of engineering. Year 2 came along - and I carefully selected my classes. I hadn’t told anyone of my idea of changing course - it might not come to pass, after all, but I knew I needed to begin exploring. So I did 7 modules - some more focused on engineering (fluid mechanics, strength of materials, introduction to material science), some more relevant to my second degree in economics - I wasn’t giving this up (statistical computing, accounting for economists), and the class that would change the trajectory of my life - introduction to machine learning. I also threw myself into a robotics club and begged to work on all systems - mechanical, electronic/control and software systems.&lt;/p&gt;
 &lt;p&gt;I dominated the curves that semester as I got straight A+‘s in what has been my best semester academically to date. The robotics project was also going well. But delving deeper, what should have been satisfaction in topping the cohort in my engineering classes was instead a sense of emptiness - the feeling that I could never see myself using this knowledge. Instead, I had deeply and intimately enjoyed my introduction to machine learning class - a class all my peers hated with a passion, going so far as to self learn deep learning from textbooks. I knew at that point I had to change.&lt;/p&gt;
 &lt;h2&gt;Changing my course - thank you Ms Ng&lt;/h2&gt;
 &lt;p&gt;Sometimes, people ask me why I changed my course, and often when they do so there’s this smirk they have thinking I did so because of the annual GES results indicating that CS graduates were well paid.&lt;/p&gt;
