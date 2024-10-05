@@ -1,14 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Naaman Tan | Software & ML Engineer]]></title><description><![CDATA[Software Engineer with experience in NLP/CV research. If you need an engineer who can quickly prototype concepts and scale them up, I could be the person you’re looking for. ]]></description><link>https://tanyjnaaman.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 17 Aug 2024 19:32:37 GMT</lastBuildDate><item><title><![CDATA[My first paper]]></title><description><![CDATA[Last year, I spent half a year in Zurich at ETH, and in the second class of Ryan Cotterell’s excellent Large Language Models course I walked…]]></description><link>https://tanyjnaaman.github.io/blog/my-first-paper/</link><guid isPermaLink="false">https://tanyjnaaman.github.io/blog/my-first-paper/</guid><pubDate>Fri, 14 Jun 2024 12:00:00 GMT</pubDate><content:encoded>&lt;details closed&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Naaman Tan | Software & ML Engineer]]></title><description><![CDATA[Software Engineer with experience in NLP/CV research. If you need an engineer who can quickly prototype concepts and scale them up, I could be the person you’re looking for. ]]></description><link>https://tanyjnaaman.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 05 Oct 2024 17:51:27 GMT</lastBuildDate><item><title><![CDATA[My first paper]]></title><description><![CDATA[Last year, I spent half a year in Zurich at ETH, and in the second class of Ryan Cotterell’s excellent Large Language Models course I walked…]]></description><link>https://tanyjnaaman.github.io/blog/my-first-paper/</link><guid isPermaLink="false">https://tanyjnaaman.github.io/blog/my-first-paper/</guid><pubDate>Sat, 05 Oct 2024 12:00:00 GMT</pubDate><content:encoded>&lt;details closed&gt;
 &lt;summary&gt;&lt;b&gt;It&apos;s on arXiv! (written 10 June)&lt;/b&gt;&lt;/summary&gt;
 &lt;br&gt;
 &lt;p&gt;Last year, I spent half a year in Zurich at ETH, and in the second class of Ryan Cotterell’s excellent &lt;a href=&quot;https://rycolab.io/classes/llm-s23/&quot;&gt;Large Language Models&lt;/a&gt; course I walked up to him to ask if he was looking for research assistants.
 It has since been a year with several ups and downs, but today, we (meaning myself, &lt;a href=&quot;https://valvoda.github.io/&quot;&gt;Josef Valvoda&lt;/a&gt;, &lt;a href=&quot;https://rycolab.io/authors/tianyu/&quot;&gt;Tianyu Liu&lt;/a&gt;, &lt;a href=&quot;https://anejsvete.github.io/&quot;&gt;Anej Svete&lt;/a&gt; and &lt;a href=&quot;https://rycolab.io/authors/ryan/&quot;&gt;Ryan Cotterell&lt;/a&gt;) put up a paper on arXiv, titled somewhat dramatically “A Fundamental Tradeoff in Aligned Language Models and its Relationship to Sampling Adaptors”.
 You can find it &lt;a href=&quot;https://arxiv.org/abs/2406.10203&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;/details&gt;
-&lt;details open&gt;
+&lt;details closed&gt;
 &lt;summary&gt;&lt;b&gt;EMNLP (written 14 June)&lt;/b&gt;&lt;/summary&gt;
 &lt;br&gt;
 &lt;p&gt;We’ve submitted it for EMNLP 2024 :)&lt;/p&gt;
+&lt;/details&gt;
+&lt;details open&gt;
+&lt;summary&gt;&lt;b&gt;It&apos;s been accepted! (written 5 October)&lt;/b&gt;&lt;/summary&gt;
+&lt;br&gt;
+&lt;p&gt;Unfortunately, I won’t be in Miami for the conference due to health issues. But I’m still glad it got accepted. &lt;/p&gt;
 &lt;/details&gt;</content:encoded></item><item><title><![CDATA[I went on exchange]]></title><description><![CDATA[But it’s been so good! So many of these friends I’ve not seen in a while - we’re all busy, and myself, every since university has started, I…]]></description><link>https://tanyjnaaman.github.io/blog/my-exchange-begins/</link><guid isPermaLink="false">https://tanyjnaaman.github.io/blog/my-exchange-begins/</guid><pubDate>Sat, 09 Sep 2023 12:00:00 GMT</pubDate><content:encoded>&lt;details closed&gt;
 &lt;summary&gt;&lt;b&gt;Pre flight (written 1 Feb)&lt;/b&gt;&lt;/summary&gt;
 &lt;br&gt;
